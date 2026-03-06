@@ -1,0 +1,11 @@
+a=[1,3,9,5,6]
+# a.append(10)
+# print(a)
+# a.sort()
+# print(a)
+# a.sort(reverse=True)
+# print(a)
+a.reverse()
+print(a)
+a.insert(3,"HI")
+print(a)

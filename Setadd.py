@@ -1,0 +1,6 @@
+sets=set()
+sets.add(1)
+sets.add(2)
+sets.add(2)
+sets.remove(2)
+print(sets) 
